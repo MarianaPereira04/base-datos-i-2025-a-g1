@@ -1,4 +1,4 @@
-# Bases de Datos I
+# BASES DE DATOS I
 
 **Semestre:** 2025-A
 
